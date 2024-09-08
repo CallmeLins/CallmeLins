@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Lins</h1>
 <h3 align="center">A amateur developer driven by interest</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=callmelins&label=Profile%20views&color=0e75b6&style=flat" alt="callmelins" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=callmelins&show_icons=true&locale=en" alt="callmelins" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=callmelins&" alt="callmelins" /></p>
+<p align="center">
+<br/>
+<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=CallmeLins&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+<br/>
+  <br/>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=CallmeLins&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CallmeLins&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<br/>
+</p> 
