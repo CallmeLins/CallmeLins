@@ -13,4 +13,6 @@
 <br/>
 </p>
 
+<p align="center"> <img src="https://github.com/CallmeLins/CallmeLins/blob/output/github-contribution-grid-snake.svg" alt="CallmeLins" /> </p>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CallmeLins" alt="CallmeLins" /></a> </p>
