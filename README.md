@@ -46,10 +46,3 @@
   <!-- 注意：这里我将图片链接改为了 raw 格式，确保能显示 -->
   <img src="https://raw.githubusercontent.com/CallmeLins/CallmeLins/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
-
-<!-- 底部 Trophy -->
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=CallmeLins&theme=flat&no-frame=true&margin-w=15" alt="CallmeLins" />
-  </a> 
-</p>
